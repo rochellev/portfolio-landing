@@ -7,10 +7,6 @@ body {
   background-color: #DDD8B8;
 }
 
-.flash {
-  color: #542E71;
-}
-
 .profilepic {
   max-width: 40%;
 }
@@ -23,4 +19,8 @@ body {
 
 .hobbypic {
   max-width: 100%;
+}
+/*unvisited*/
+a:link {
+  color: #542E71;
 }

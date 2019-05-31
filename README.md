@@ -6,14 +6,13 @@
 
 ## Description
 
-## This is Rochelle's Portfolio.
+## This is Rochelle's Portfolio. It containes a main page that links to the Projects, Hobbies, and About Me pages. 
 
-## a computer
+## Things Needed
 
-* bootstrap, html, css
+* clone this repository
+* open index.html in a web browser
 
-
-_This is are no extra requirements_
 
 ## Known Bugs
 
