@@ -26,6 +26,9 @@ _Contact us or make a contribution to the code if you find an issue_
 
 _I used html, css, and Bootstrap_
 
+## GitHub Pages Link
+https://rochellev.github.io/portfolio-landing/
+
 ### License
 
 *no license*
