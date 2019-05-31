@@ -1,9 +1,14 @@
+body {
+  background-color: #B3CBB9;
+}
+
 .jumbotron {
   text-align: center;
+  background-color: #DDD8B8;
 }
 
 .flash {
-  color: aqua;
+  color: #542E71;
 }
 
 .profilepic {
